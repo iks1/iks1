@@ -1,4 +1,4 @@
-- I code sometimes. 
+- yo !! I code sometimes.  
 - Reach out on [linkedin](https://www.linkedin.com/in/iks1r)
 
 <!---
