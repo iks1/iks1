@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Raj Studying in IIT GUWAHATI
-- 👀 I’m interested in WebDevelopment and DevOps...
-- 🌱 I’m currently doing some works with ReactJs , flutter , react native , next js and have started learning DevOps ...
-- 💞️ I’m looking to collaborate on Some opensourse projects ...
-- Reach out on linkedin (iks1r)
+- I code sometimes. 
+- Reach out on [linkedin](https://www.linkedin.com/in/iks1r)
 
 <!---
 iks1/iks1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
